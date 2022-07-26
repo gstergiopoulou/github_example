@@ -1,1 +1,1 @@
-# github_example
+# Example of README
